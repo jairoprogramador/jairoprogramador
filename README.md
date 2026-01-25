@@ -71,9 +71,9 @@ Strong background in distributed architectures, cloud platforms and Linux enviro
 ## hola
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jairoprogramador&theme=dracula&bg_color=000000&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jairoprogramador&theme=default&bg_color=ffffff&hide_border=true">
-  <img alt="contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jairoprogramador&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jairoprogramador/jairoprogramador/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jairoprogramador/jairoprogramador/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jairoprogramador/jairoprogramador/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
