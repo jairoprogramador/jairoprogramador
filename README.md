@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋 I am Jairo Galvez</h1>
 
-Backend engineer with 10+ years of experience designing and building scalable systems.  
-Strong background in distributed architectures, cloud platforms and Linux environments.
+Backend engineer with 10+ years of experience designing and building scalable systems. Strong background in distributed architectures, cloud platforms and Linux environments.
 
 ###
 <div align="center">
@@ -57,6 +56,6 @@ Strong background in distributed architectures, cloud platforms and Linux enviro
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jairoprogramador&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jairoprogramador&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
