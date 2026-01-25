@@ -1,7 +1,5 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 <h1 align="center">Hey 👋 I am Jairo Galvez</h1>
+
 Backend engineer with 10+ years of experience designing and building scalable systems.  
 Strong background in distributed architectures, cloud platforms and Linux environments.
 
@@ -59,6 +57,6 @@ Strong background in distributed architectures, cloud platforms and Linux enviro
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jairoprogramador&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=1" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jairoprogramador&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="300" alt="languages graph"  />
 </div>
 
