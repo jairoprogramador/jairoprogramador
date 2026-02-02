@@ -44,10 +44,3 @@ Backend engineer with 10+ years of experience designing and building scalable sy
     <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tiktok logo"  />
     </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jairoprogramador&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
-</div>
-
